@@ -1,0 +1,7 @@
+baseURL = "https://aurora-scheduler.github.io/"
+languageCode = "en-us"
+title = "Aurora Scheduler"
+theme = "aurora"
+
+[markup.goldmark.renderer]
+unsafe = true

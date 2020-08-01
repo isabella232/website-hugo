@@ -1,0 +1,18 @@
+name = "aurora"
+license = "Apache v2"
+licenselink = "https://github.com/aurora-scheduler/website-theme/blob/master/LICENSE"
+description = ""
+homepage = "https://aurora-scheduler.github.io"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Aurora Scheduler Developer"
+  homepage = "https://aurora-scheduler.github.io"
+
+# If porting an existing theme
+[original]
+  name = "Apache Aurora Developers"
+  homepage = "https://aurora.apache.org"
+  repo = ""
