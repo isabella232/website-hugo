@@ -30,9 +30,9 @@ title: "Aurora Scheduler"
   </div>
   <div class="row">
     <div class="col-md-2 text-center"><p><span class="glyphicon glyphicon-list-alt"></span></p></div>
-    <div class="col-md-4"><h3>Sophisticated DSL</h3><p>Services are highly-configurable via a <a href="/documentation/latest/reference/configuration-tutorial/">DSL</a> which supports templating, allowing you to establish common patterns and avoid redundant configurations.</p></div>
+    <div class="col-md-4"><h3>Sophisticated DSL</h3><p>Services are highly-configurable via a <a href="https://aurora-scheduler.readthedocs.io/en/latest/reference/configuration-tutorial/">DSL</a> which supports templating, allowing you to establish common patterns and avoid redundant configurations.</p></div>
     <div class="col-md-2 text-center"><p><span class="glyphicon glyphicon-cloud-upload"></span></p></div>
-    <div class="col-md-4"><h3>Service Registration</h3><p>Aurora <a href="/documentation/latest/features/service-discovery/">announces</a> services to Apache ZooKeeper for discovery by clients like Finagle.</p></div>
+    <div class="col-md-4"><h3>Service Registration</h3><p>Aurora <a href="https://aurora-scheduler.readthedocs.io/en/latest/features/service-discovery/">announces</a> services to Apache ZooKeeper for discovery by clients like Finagle.</p></div>
   </div>
  </div>
 </div>
